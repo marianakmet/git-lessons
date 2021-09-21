@@ -16,3 +16,8 @@ h3{
     color: blue;
     text-align: right;
 }
+p{
+    margin: 20px 0;
+    font-family: monospace;
+    font-size: 30px;
+}
