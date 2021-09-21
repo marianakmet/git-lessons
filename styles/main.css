@@ -4,12 +4,15 @@
     box-sizing: border-box;
 }
 
-body {
-    border-color: lightblue;
-}
+
 
 h1 {
     color: red;
     text-align: center;
-    margin: 10px 0;
+    margin: 20px 0;
+}
+
+h3{
+    color: blue;
+    text-align: right;
 }
